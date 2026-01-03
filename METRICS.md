@@ -182,7 +182,7 @@ where:
 
 ## 7) Drawdown and Maximum Drawdown (`max_drawdown`)
 
-### What it is used for
+### Purpose
 Drawdown quantifies **how bad the declines are** from peaks (pain level).
 
 Maximum drawdown is mainly used to:
@@ -190,7 +190,7 @@ Maximum drawdown is mainly used to:
 - compare downside risk between strategies
 - sanity-check whether a strategy is investable for a given risk tolerance
 
-### Notebook implementation
+### Implementation
 ```python
 running_max = df['Cumulative_Strategy_Return'].cummax()
 drawdown = (df['Cumulative_Strategy_Return'] / running_max) - 1
@@ -209,7 +209,7 @@ Let \(E_t\) be the strategy equity curve.
 \text{Max Drawdown} = \min_t (\text{Drawdown}_t)
 \]
 
-### Meaning / interpretation
+### Meaning
 - Drawdown is **0** at new highs.
 - Drawdown is negative during declines.
 - If `max_drawdown = -0.35`, the worst peak-to-trough loss was **-35%**.
