@@ -59,11 +59,7 @@ All dependencies are listed in [requirements.txt](requirements.txt).
 
 ## Usage
 
-(Instructions will be added once the backtester script is implemented)
-
-```bash
-python backtest.py
-```
+Locate to any of the notebook to run the test (e.g, backtest.ipynb)
 
 ## Features
 
