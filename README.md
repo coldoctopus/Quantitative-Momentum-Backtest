@@ -24,7 +24,7 @@ This project provides a **vectorized backtesting framework** to:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Quantitative-Momentum-Backtest.git
+   git clone https://github.com/coldoctopus/Quantitative-Momentum-Backtest.git
    cd Quantitative-Momentum-Backtest
    ```
 
