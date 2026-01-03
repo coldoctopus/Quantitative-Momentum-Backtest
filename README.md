@@ -1,6 +1,6 @@
 # Quantitative Momentum Backtest
 
-A demonstrative repository implementing a **Dual Moving Average Crossover** strategy for trend-following analysis. This project serves as a "Hello World" introduction to quantitative trading and algorithmic backtesting.
+A demonstrative repository implementing a **Dual Moving Average Crossover** strategy for trend-following analysis. An introduction to quantitative trading and algorithmic backtesting.
 
 ## Purpose
 
@@ -74,7 +74,7 @@ python backtest.py
   - Sharpe Ratio (risk-adjusted returns)
   - Maximum Drawdown
   - Win Rate
-- **Visualization**: Publication-quality charts comparing strategy vs. benchmark
+- **Visualization**: Charts comparing strategy vs. benchmark
 
 ## Strategy Overview
 
@@ -88,7 +88,7 @@ This is compared against a simple **Buy & Hold** benchmark to evaluate strategy 
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## 📝 License
+## Licenses
 
 This project is for educational purposes.
 
