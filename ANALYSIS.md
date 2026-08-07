@@ -8,7 +8,7 @@ This document explains the results for Nvida (NVDA), Meta (META) and FPT (FPT.VN
 - Max drawdown: −63.6%
 - Sharpe: 1.07
 
-NVDA experienced strong, fast regime shifts; hence, the strategy entered (buy/sell) late. This is usaluuy called "signal lag".
+NVDA experienced strong, fast regime shifts; hence, the strategy entered (buy/sell) late. This is usually called "signal lag".
 
 ![NDVA Cumminlative Return](res/nvda_backtest.png)
 
